@@ -1,0 +1,29 @@
+#maincontent{
+	margin-top: 50px;
+}
+
+.navbar-text{
+	margin: 0;
+}
+
+#formation{
+	cursor: pointer;
+}
+
+#ico{
+	width: 100px;
+	height: 50px;
+}
+#icod{
+	width: 80px;
+	height: 30px;
+}
+#icog{
+	width: 180px;
+	height: 80px;
+}
+#annul
+{
+	width: 35px;
+	height: 35px;
+}
